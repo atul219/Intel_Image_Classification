@@ -19,4 +19,5 @@ In this dataset there are 6 different classes.
 
 ## Accuracy
 
-Using Convolutional Neural Network: ####Test Accuracy: ####85% 
+Using Convolutional Neural Network: 
+#### Test Accuracy: 85% 
